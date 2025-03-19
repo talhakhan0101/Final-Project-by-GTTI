@@ -1,0 +1,107 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading_outerdiv{
+      text-align: center;
+      box-shadow: 8px 8px 8px 8px #e3dddc;
+      margin: 20px 5px;
+      width: 900px;
+      justify-content: center;
+    }
+.header{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.first-nav{
+    word-spacing: 15px;
+    border: 1px solid black;
+    border-right: 1px solid black;
+}
+.logo{
+    margin-right:40px ;
+}
+.banner{
+    margin-left: 30px ;
+}
+.second-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.figures{
+    background-color: #6fc25f;
+    font-size: 30px;
+    margin: 0px;
+    padding: 10px 30px;
+    border:1px solid white ;
+    text-align: center;
+}
+.left-para{
+    width: 200px;
+    text-align: justify;
+    margin: 10px 10px;
+    box-shadow: 4px 4px 8px #e1e3e1;
+    padding: 0px 10px;
+
+}
+.middle-content{
+    width: 400px;
+    text-align: justify;
+        margin: 10px 10px;
+        box-shadow: 4px 4px 8px #e1e3e1;
+    padding: 0px 10px;
+
+
+}
+.content{
+    width: 400px;
+    text-align: justify;
+    display: flex;
+}
+.right-content{
+    width: 200px;
+    text-align: justify;
+    margin: 10px 10px;
+    box-shadow: 4px 4px 8px #e1e3e1;
+    padding: 0px 10px;
+
+}
+.large-div{
+    display: flex;
+    justify-content: center;
+}
+.green{
+    text-align: center;
+    background-color: green;
+    font-size: 24px;
+    padding: 10px 0px;
+}
+footer{
+    width: 90%;
+    height: 100px;
+    background-color: #6fc25f;
+    margin: 10px;
+    margin-left: 50px;
+    display: flex;
+}
+.icons{
+    margin: 5px 5px;
+    float: right;
+}
+.icons-div{
+    width: 400px;
+
+    margin-left: 410px;
+}
+.fot-para{
+    text-align: center;
+    width: 300px;
+
+}
